@@ -1,0 +1,27 @@
+Results for directory C:\Filewalker\.
+Total files: 76
+Distinct file names: 72
+Total directories: 65
+Distinct directory names: 53
+Top 10 file names:
+- master
+- HEAD
+- prepare-commit-msg.sample
+- misc.xml
+- ForkJoinFileWalker.class
+- FETCH_HEAD
+- .name
+- 9af444253bdc7cee2d217aee5e5653d383f51b
+- FileCounter.class
+- ff1479e7e5a6c61a7259dfee3c9d9b31f23bba
+Top 10 directory names:
+- com
+- impl
+- java
+- info
+- printer
+- origin
+- dakhniy
+- counter
+- filewalker
+- refs
